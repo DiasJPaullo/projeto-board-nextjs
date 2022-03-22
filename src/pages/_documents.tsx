@@ -5,7 +5,7 @@ export default class MyDocument extends Document{
     return(
       <Html>
         <Head>
-          <title>Bem Vindo ao Board</title>
+          
         </Head>
         <body>
           <Main/>
